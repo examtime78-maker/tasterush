@@ -1,0 +1,6 @@
+{
+  "name": "ProReview Hub",
+  "description": "A high-conversion affiliate product review platform featuring deep-dives into premium tech, electronics, and lifestyle products.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
